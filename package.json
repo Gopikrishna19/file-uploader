@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/my-js-ventures/file-uploader#readme",
   "devDependencies": {
-    "webpack": "1.13.2"
+    "webpack": "5.94.0"
   }
 }
